@@ -29,3 +29,11 @@ td {
   border-collapse: collapse;
   padding: 8px;
 }
+img {
+  max-width: 50%;
+  height: auto;
+}
+
+li {
+  margin-bottom: 10px;
+}
