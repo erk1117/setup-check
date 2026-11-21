@@ -1,0 +1,43 @@
+body {
+  background-color: #f4e6ef;
+  color: #333;
+}
+h1 {
+  color: #1a01fa;
+  font-size: 32px;
+}
+
+p {
+  line-height: 1.8;
+}
+h1 {
+  border: 2px solid #0000f5;
+  padding: 20px;
+  margin: 20px;
+}
+body {
+  font-family: sans-serif;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+table,
+th,
+td {
+  border: 2px solid #000000;
+  border-collapse: collapse;
+  padding: 5px;
+}
+img {
+  max-width: 50%;
+  height: auto;
+}
+
+li {
+  margin-bottom: 10px;
+}
+h2 {
+  color: #fa8900;
+  font-size: 32px;
+}
